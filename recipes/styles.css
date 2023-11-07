@@ -1,0 +1,54 @@
+.heading1 {
+    color: black;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.heading2 {
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.heading3 {
+    color: red;
+    font-size: 20px;
+}
+
+#greenbackground {
+    background-color: rgb(0,250,80);
+}
+
+.redonyellow {
+    color: red;
+    background-color: yellow;
+}
+
+.redonblue {
+    color: red;
+    background-color: rgb(0,130,255);
+}
+
+.redongreen {
+    color: red;
+    background-color: rgb(0,250,80);
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.strawberrycakeimage {
+    height: auto;
+    width: 400px;
+}
+
+.browntext {
+    color: brown;
+}
+
+.center {
+    text-align: center;
+}
