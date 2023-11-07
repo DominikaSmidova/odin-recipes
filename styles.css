@@ -1,0 +1,27 @@
+body {
+    font-family: arial, verdana, sans-serif;
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.links {
+    font-size: 20px;
+    font-weight: 50;
+    color:white;
+}
+
+.link1 {
+    background-color: blue;
+}
+
+.link2 {
+    background-color: yellow;
+}
+
+.link3 { background-color: green;
+}
